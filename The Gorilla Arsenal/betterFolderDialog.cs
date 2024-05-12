@@ -23,7 +23,7 @@ namespace The_Gorilla_Arsenal.betterFolderDialog
             get { return _title ?? "Select a folder"; }
             set { _title = value; }
         }
-        public string FileName { get { return _fileName; } }
+        public string FileName { get { return _fileName; } set { _fileName = value; } }
 
         public bool Show() { return Show(IntPtr.Zero); }
 

@@ -33,10 +33,31 @@ namespace The_Gorilla_Arsenal
                 InitialDirectory = fileLocation.Text,
                 Title = "Select the Gorilla Tag Folder"
             };
-            if (dialog.Show(Handle))
+            try
             {
-                fileLocation.Text = dialog.FileName;
-                Console.WriteLine(dialog.FileName);
+                if (dialog.Show(Handle))
+                {
+                    fileLocation.Text = dialog.FileName;
+                    Console.WriteLine(dialog.FileName);
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Phew almost crashed!", "The Gorilla Arsenal", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                using (var fbd = new FolderBrowserDialog())
+                {
+                    DialogResult result = fbd.ShowDialog();
+
+                    if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(fbd.SelectedPath))
+                    {
+                        dialog.FileName = fbd.SelectedPath;
+                    }
+                    else
+                    {
+                        dialog.FileName = "";
+                    }
+                }
             }
 
             // check if everything is there.
@@ -47,7 +68,7 @@ namespace The_Gorilla_Arsenal
 
                 //do we want to install bepinex?
                 DialogResult result = MessageBox.Show(message, caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if (result == System.Windows.Forms.DialogResult.Yes)
+                if (result == DialogResult.Yes)
                 {
                     //get versions
                     WebClient webClient = new WebClient();
