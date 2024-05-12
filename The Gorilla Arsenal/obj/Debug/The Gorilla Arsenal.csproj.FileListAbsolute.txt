@@ -1,0 +1,29 @@
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\The Gorilla Arsenal.exe.config
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\The Gorilla Arsenal.exe
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\The Gorilla Arsenal.pdb
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.csproj.AssemblyReference.cache
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The_Gorilla_Arsenal.Properties.Resources.resources
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.csproj.GenerateResource.cache
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.csproj.CoreCompileInputs.cache
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.exe
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.pdb
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The Gorilla Arsenal.csproj.CopyComplete
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\obj\Debug\The_Gorilla_Arsenal.MainScreen.resources
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Buffers.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Memory.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Text.Json.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.ValueTuple.dll
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Buffers.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Memory.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Text.Json.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rockt\source\repos\The Gorilla Arsenal\The Gorilla Arsenal\bin\Debug\System.ValueTuple.xml
